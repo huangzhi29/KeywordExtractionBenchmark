@@ -1,0 +1,142 @@
+WarGames
+ 
+{{Infobox film
+| name           = WarGames
+| image          = wargames.jpg
+| caption        = Theatrical release poster
+| director       = John Badham
+| producer       = Leonard Goldberg Rich Hashimoto Harold Schneider Bruce McNall
+| writer         = Lawrence Lasker Walter F. Parkes Walon Green
+| starring = {{plainlist|
+* Matthew Broderick
+* Dabney Coleman John Wood
+* Ally Sheedy
+}}
+| music          = Arthur B. Rubinstein
+| cinematography = William A. Fraker
+| editing        = Tom Rolf
+| studio         = United Artists UAA Films Sherwood Productions
+| distributor    = Metro-Goldwyn-Mayer|MGM/UA Entertainment Co. Chapel Distribution United International Pictures
+| released       =      
+| runtime        = 114 minutes
+| country        = United States & Australia
+| language       = English
+| budget         = $12 million
+| gross          = $79.5 million (domestic)
+}} John Wood, and Ally Sheedy.
+ hacker who computer game. The simulation causes a national nuclear missile scare and nearly starts World War III.
+ direct to DVD on July 29, 2008.
+
+==Plot== nuclear attack, Strategic Missile missileers prove turn a learn over time.
+ dialing every Theaterwide biological Biotoxic and backdoor password and suggest tracking down the Falken referenced in "Falkens Maze", the first game listed. David discovers that Stephen Falken is an early artificial intelligence researcher, and guesses correctly that his dead sons name "Joshua" is the backdoor password.
+ Soviet nuclear John Wood) now lives. David and Jennifer find that Falken has become despondent and believes that nuclear war is inevitable. The teenagers convince Falken that he should return to NORAD to stop Joshua.
+ hundreds of all weapons computer is disabled. Instead, Falken and David direct the computer to play tic-tac-toe against itself. This results in a long string of Tie (draw)|draws, forcing the computer to learn the concept of futility. Joshua obtains the missile code but before launching, it cycles through all the nuclear war scenarios it has devised, finding they too all result in stalemates. Having discovered the concept of Mutually Assured Destruction ("WINNER: NONE"), the computer concludes that nuclear warfare is "a strange game" in which "the only winning move is not to play." Joshua then offers to play "a nice game of chess", and relinquishes control of NORAD and the missiles.
+
+==Cast==
+ 
+* Matthew Broderick as David Lightman
+* Dabney Coleman as Dr. John McKittrick John Wood as Dr. Stephen Falken and the voice of Joshua/WOPR
+* Ally Sheedy as Jennifer Mack
+* Barry Corbin as General Jack Beringer
+* Juanin Clay as Pat Healy
+* Dennis Lipscomb as Watson
+* Joe Dorsey as Col. Joe Conley 
+* Michael Ensign as Beringers Assistant
+* William Bogert as Mr. Lightman John Spencer as Capt. Jerry Lawson
+* Michael Madsen as Lt. Steve Phelps
+* Alan Blumenfeld as Mr. Liggett
+* Maury Chaykin as Jim Sting
+* Eddie Deezen as Malvin
+* Art LaFleur as Guard 
+* Stack Pierce as Airman Stephen Lee as Sgt. Schneider
+* Jesse D. Goins as Sergeant (as Jesse Goins)
+* James Ackerman as Joshua Falken
+ 
+
+==Production==
+
+===Development===
+Development on WarGames began in 1979, when writers Walter F. Parkes and Lawrence Lasker developed an idea for a script called The Genius, about "a dying scientist and the only person in the world who understands him – a rebellious kid whos too smart for his own good." Lasker was inspired by a television special presented by Peter Ustinov on several geniuses including Stephen Hawking. Lasker said "I found the predicament Hawking was in fascinating – that he might one day figure out the unified field theory and not be able to tell anyone, because of his progressive Amyotrophic lateral sclerosis|ALS. So there was this idea that hed need a successor. And who would that be? Maybe this kid, a juvenile delinquent whose problem was that nobody realized he was too smart for his environment." The concept of computers and hacking as part of the film was not yet present.   
+ Peter Schwartz Stanford Research SIOP (Single Integrated Operational Plan) was "boring, and told you nothing". Metro–Goldwyn–Mayer "WarGames 25th Anniversary Edition DVD"  The name "WOPR" played off of the Whopper hamburger, and a general sense of something going "whop". 
+ NORAD who Parkes and Lasker met while visiting the base, and who, like Beringer, favored keeping humans in the decision loop. 
+ prop created in Culver City, California, by members of the International Alliance of Theatrical and Stage Employees Local 44. {{cite web
+|url=http://www.imsai.net/movies/wargames.htm#WOPR
+|title=What happened to the WOPR?
+|work=The Wargames IMSAI
+|author=Mike Fink
+|date=2006-03-05
+|accessdate=March 27, 2009}}  It was designed by production designer (credited as visual consultant) Geoffrey Kirkland based on some pictures he had of early tabulating machines, and metal furniture, consoles, and cabinets used particularly in the U.S. military in the 1940s and 50s. They were adapted in drawings and concepts by art director Angelo Graham. WOPR was operated by a crewmember sitting inside the computer, entering commands into an Apple II at the directors instruction.  The prop was broken up for scrap after production was completed. A replica was built for a 2006 AT&T commercial. 
+
+===Filming===
+Martin Brest was originally hired as director but was fired after 12 days of shooting because of a disagreement with the producers,  and replaced with John Badham. Several of the scenes shot by Brest remain in the final film. Badham said that "  taken a somewhat dark approach to the story and the way it was shot. It was like   were doing some Nazi undercover thing. So it was my job to make it seem like they were having fun, and that it was exciting." According to Badham, Broderick and Sheedy were "stiff as boards" when they came onto the sound stage, having both Brests dark vision and the idea that they would soon be fired. Badham did 12–14 takes of the first shot to loosen the actors up. At one point, Badham decided to have a race with the two actors around the sound stage with the one who came last having to sing a song to the crew. Badham lost and sang "The Happy Wanderer", the silliest song he could think of.   
+
+Tom Mankiewicz says he wrote some additional scenes during shooting which were used. 
+
+==Release== President Reagan, a family friend of Lasker, watched the film and discussed the plot with members of Congress. 
+
+==Reception==
+
+===Critical response===
+ 
+The film received critical acclaim. Film review aggregator Rotten Tomatoes reported that 92% of sampled critics gave the film positive reviews and that it got a rating average of 7.5 out of 10.  Film critic Roger Ebert gave the film four out of four stars, calling it "an amazingly entertaining thriller" and "one of the best films so far this year", with a "wonderful" ending.    Softline (magazine)|Softline praised the film as being "completely original"; unlike other computer-related films like Tron that "could (and do) exist in substantially the same form with some other plot", WarGames "could not exist if the microcomputer did not exist ... It takes the micro and telecommunications as a given—part of the middle-class American landscape". The magazine praised the film as "Very funny, excruciatingly suspenseful, and endlessly inventive, this movie is right on the mark; authentic even when highly improbable".    Computer Gaming World stated that "Wargames is plausible enough to intrigue and terrifying enough to excite ...   makes one think, as well as feel, all the way", raised several moral questions about technology and society, and recommended the film to "Computer hobbyists of all kinds".   
+
+===Accolades=== Best Cinematography Sound (Michael J. Kohut, Carlos Delarios, Aaron Rochin, Willie D. Burton), and Academy Award for Best Writing (Original Screenplay)|Writing, Screenplay Written Directly for the Screen (Lawrence Lasker, Walter F. Parkes).     The company that provided the large screens used to display the tactical situations seen in the NORAD set employed a new design that was super-bright enabling the displays to be filmed live. (The set was more visually impressive than the actual NORAD facilities at the time.)  No post-production work was needed. For this, the company was awarded an Academy Scientific and Technical Award.
+
+===Influence===
+Bulletin Board System operators reported an unusual rise in activity in 1984, which at least one sysop attributed to WarGames introducing viewers to modems.    The scenes showing Lightmans computer dialing every number in Sunnyvale led to the term "war dialing" (earlier known as "demon dialing"), a technique of using a modem to scan a list of telephone numbers to search for unknown computers, and indirectly to the newer term "wardriving". 
+
+==Video games== Android devices in 2012.  
+ Introversion game Defcon (video game)|DEFCON (2006). 
+
+==Soundtrack==
+ 
+The films music was composed and conducted by Arthur B. Rubinstein. A soundtrack album including songs (recorded for but not used in the film) and dialogue excerpts was released by Polydor Records|Polydor. Intrada Records issued an expanded release in 2008 with the complete score, without the dialogue.
+
+The folk rock supergroup Crosby, Stills, Nash & Young|Crosby, Stills & Nash were tapped at one point to write a title song for the film, but at the last minute it was scrapped from the project. The band released the song anyway, with a video made of footage from the movie airing on MTV. It was available on their now out-of-print album Allies (Crosby, Stills & Nash album)|Allies.
+
+== Sequel and possible remake ==
+In November 2006, pre-production began on a sequel, titled  . It was directed by Stuart Gillard, and starred Matt Lanter as a hacker named Will Farmer facing off with a government supercomputer called RIPLEY.  MGM released the sequel directly to DVD on July 29, 2008 along with the 25th Anniversary Edition DVD of WarGames. To promote the sequel, the film returned to selected theaters as a one-night-only twenty-fifth anniversary event on July 24, 2008. 
+
+There have been various rumours of reboot (fiction)|reboots. It was reported in February 2009 that Leonardo DiCaprio was looking to produce one,  and in 2011 MGM Studios were said to be planning a reboot with Seth Gordon signed on to direct, although no writers or cast were yet on board. 
+
+== See also ==
+ 
+* 1983 Soviet nuclear false alarm incident
+* HP 9845C – computer used to generate the war room graphics
+* Summer Wars
+
+==References==
+ 
+
+==External links==
+ 
+*  
+*  
+*  
+*  
+*  
+*  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
